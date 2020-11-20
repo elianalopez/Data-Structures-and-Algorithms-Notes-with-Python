@@ -6,6 +6,12 @@
 This repository contains a deep dive on Data Structures and Algorithms theory and concepts along with Python based examples of many popular algorithms and data structures.
 
 ## Introduction and the Basics
+For this introduction I am going to define key terms so we can do into more depth about the applications and uses of data structures and algorithms.
+These will be the key terms defined in this section:
+* Algorithm
+* Data Structure
+* Data Types
+* Abstract Data Types
 
 ### What is an Algorithm
 Overall this is the most intuitive definition  of an algorithm:
