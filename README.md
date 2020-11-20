@@ -56,6 +56,10 @@ To put it simply, data structures need algorithms and algorithms need data struc
 
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 
+This is an illustration of the interconnection of a data structure and an algorithm:
+
+![Data-Type-Diagram](Images/Example.PNG)
+
 
 ## Big-O Notation 
 
