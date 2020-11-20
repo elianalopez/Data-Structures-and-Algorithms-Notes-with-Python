@@ -20,7 +20,8 @@ Outside of computing, one example of an algorithm can be a recipe from a cookboo
 
 Overall it is a technique of how data can inter-relate to each other logically or mathematically. 
 
-#### Data Structures need Algorithms and Algorithms need Data Structures
+### The Interconnection between Data Structures and Algorithms
+To put it simply, data structures need algorithms and algorithms need data structures.
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 
 ### Data Type
