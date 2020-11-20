@@ -16,7 +16,7 @@ Outside of computing, one example of an algorithm can be a recipe from a cookboo
 
 ### What is a Data Structure
 
-The implementation of an abstract data type can be refered to a data sturcture but intuitivly:
+The implementation of an abstract data type can be refered to a data sturcture but intuitivly is a way of organizing data so it can be used effectively.
 
 * A data structure is a format for accessing, storing, organizing, or structuring data.
 
