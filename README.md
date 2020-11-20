@@ -25,7 +25,7 @@ To put it simply, data structures need algorithms and algorithms need data struc
 
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 
-### Data Type
+### Data Types
 Data types are important because they illustrate the kind of value in the variable and tells us what operations can be performed on any particular data. Down below is an intuitive definition  of what a data type is:
 
 * An attribute of data that informs the interper on how to classify the variable. 
