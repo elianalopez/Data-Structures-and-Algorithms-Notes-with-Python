@@ -8,10 +8,10 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
 ## Introduction and the Basics
 For this introduction I am going to define key terms so we can do into more depth about the applications and uses of data structures and algorithms.
 These will be the key terms defined in this section:
-* Algorithm
-* Data Structure
 * Data Types
 * Abstract Data Types
+* Algorithm
+* Data Structure
 
 ### What is an Algorithm
 Overall this is the most intuitive definition  of an algorithm:
@@ -48,5 +48,5 @@ I have created a diagram of these categories of data types along with their resp
 *
 **ADT gives us the blue print while a data structure tells us how to implement it**
 
-### Big-O Notation 
+## Big-O Notation 
 
