@@ -13,26 +13,6 @@ These will be the key terms defined in this section:
 * Algorithm
 * Data Structure
 
-### What is an Algorithm
-Overall this is the most intuitive definition  of an algorithm:
-
-* A set of instructions used to solved a problem
- 
-Outside of computing, one example of an algorithm can be a recipe from a cookbook to craft a meal. Where we follow a certain set of instruction from the cook book to create our meal, which would thus solve the problem of our hunger. 
-
-### What is a Data Structure
-
-The implementation of an abstract data type can be refered to a data sturcture but intuitivly is a way of organizing data so it can be used effectively.
-
-* A data structure is a format for accessing, storing, organizing, or structuring data.
-
-Overall it is a technique of how data can inter-relate to each other logically or mathematically. 
-
-### The Interconnection between Data Structures and Algorithms
-To put it simply, data structures need algorithms and algorithms need data structures.
-
-**The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
-
 ### Data Types
 Data types are important because they illustrate the kind of value in the variable and tells us what operations can be performed on any particular data. Down below is an intuitive definition  of what a data type is:
 
@@ -44,9 +24,32 @@ I have created a diagram of these categories of data types along with their resp
 ![Data-Type-Diagram](Images/DataTypes.PNG)
 
 
-### Abstract Data Types (ADT)
+### What is anAbstract Data Types (ADT)
 *
+
+### What is an Algorithm
+Overall this is the most intuitive definition  of an algorithm:
+
+* A set of instructions used to solved a problem
+ 
+Outside of computing, one example of an algorithm can be a recipe from a cookbook to craft a meal. Where we follow a certain set of instruction from the cook book to create our meal, which would thus solve the problem of our hunger. 
+
+### What is a Data Structure
+
+The *implementation of an abstract data type* can be refered to a data sturcture but intuitivly is a way of organizing data so it can be used effectively.
+
+* A data structure is a format for accessing, storing, organizing, or structuring data.
+
+Overall it is a technique of how data can inter-relate to each other logically or mathematically. 
+
+**The Connection between Data Structures and Abstract Data Types:**
 **ADT gives us the blue print while a data structure tells us how to implement it**
+
+### The Interconnection between Data Structures and Algorithms
+To put it simply, data structures need algorithms and algorithms need data structures.
+
+**The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
+
 
 ## Big-O Notation 
 
