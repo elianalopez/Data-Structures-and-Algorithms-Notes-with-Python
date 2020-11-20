@@ -13,6 +13,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
 <summary>click to expand</summary>
  
 - [Introduction and the Basics](#Introduction-and-the-Basics)  
+- [Time & Space Time Complexity](#Time-&-Space-Time-Complexity)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
