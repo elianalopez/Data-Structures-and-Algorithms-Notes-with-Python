@@ -48,6 +48,7 @@ The *implementation of an abstract data type* can be refered to a data sturcture
 Overall it is a technique of how data can inter-relate to each other logically or mathematically, or in layman's terms *how it does it.*
 
 **The Connection between Data Structures and Abstract Data Types:**
+
 **ADT gives us the blue print while a data structure tells us how to implement it**
 
 ### The Interconnection between Data Structures and Algorithms
