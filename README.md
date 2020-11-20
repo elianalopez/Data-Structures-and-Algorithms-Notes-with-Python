@@ -22,9 +22,9 @@ Overall it is a technique of how data can inter-relate to each other logically o
 
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 ### Data Type
+Data types are important because they illustrate the kind of value in the variable and tells us what operations can be performed on any particular data. Down below is an intuitive definition  of what a data type is:
 
 * An attribute of data that informs the interper on how to classify the variable. 
-* Data types illustrate the kind of value in the variable and tells us what operations can be performed on any particular data. 
 
 In Python there are six types of data types:
 
