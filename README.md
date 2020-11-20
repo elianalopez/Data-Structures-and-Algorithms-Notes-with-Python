@@ -5,6 +5,18 @@
     <p align="center" class="h6">By Eliana Lopez</p>
 This repository contains a deep dive on Data Structures and Algorithms theory and concepts along with Python based examples of many popular algorithms and data structures.
 
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents  
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>click to expand</summary>
+ 
+- [Introduction and the Basics](#Introduction-and-the-Basics)  
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+
 ## Introduction and the Basics
 For this introduction I am going to define key terms so we can do into more depth about the applications and uses of data structures and algorithms.
 These will be the key terms defined in this section:
