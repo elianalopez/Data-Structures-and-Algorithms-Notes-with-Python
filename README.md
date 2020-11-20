@@ -24,8 +24,13 @@ I have created a diagram of these categories of data types along with their resp
 ![Data-Type-Diagram](Images/DataTypes.PNG)
 
 
-### What is anAbstract Data Types (ADT)
-*
+### What is an Abstract Data Types (ADT)
+
+For me, I like to think of an abstract data type as a thought process of the rules and operations of data, there is no concrete implementation, but just thoughts and ideas on how this process might work.
+
+* A logical process on how we view data and allowed operations without the regard on how it will be implemented.
+
+An ADT is the *what it does.*
 
 ### What is an Algorithm
 Overall this is the most intuitive definition  of an algorithm:
@@ -40,7 +45,7 @@ The *implementation of an abstract data type* can be refered to a data sturcture
 
 * A data structure is a format for accessing, storing, organizing, or structuring data.
 
-Overall it is a technique of how data can inter-relate to each other logically or mathematically. 
+Overall it is a technique of how data can inter-relate to each other logically or mathematically, or in layman's terms *how it does it.*
 
 **The Connection between Data Structures and Abstract Data Types:**
 **ADT gives us the blue print while a data structure tells us how to implement it**
