@@ -20,8 +20,7 @@ Outside of computing, one example of an algorithm can be a recipe from a cookboo
 * A data structure is a way for accessing, storing, organizing, or structuring data.
 
 
-
-**The connection between algorithms and data structures is that algorithms process data and that data is then stores into a data structure.**
+**The connection between algorithms and data structures is that algorithms process data and that data is then stored into a data structure.**
 
 ### Abstract Data Types (ADT)
 
