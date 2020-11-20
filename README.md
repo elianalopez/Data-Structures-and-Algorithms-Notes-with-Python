@@ -26,7 +26,11 @@ Data types are important because they illustrate the kind of value in the variab
 
 * An attribute of data that informs the interper on how to classify the variable. 
 
-In Python there are six types of data types:
+In Python there are four categories of data types: *numeric, squential, booleans, and dictonary* 
+I have created a diagram of these categories of data types along with their respective data types down below.
+
+![Data-Type-Diagram](Images/DataTypes.PNG)
+
 
 ### Abstract Data Types (ADT)
 *
