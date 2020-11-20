@@ -30,7 +30,7 @@ For me, I like to think of an abstract data type as a thought process of the rul
 
 * A logical process on how we view data and allowed operations without the regard on how it will be implemented.
 
-Note:An ADT is the *what it does.*
+Note: An ADT is the *what it does.*
 
 ### What is an Algorithm
 Overall this is the most intuitive definition  of an algorithm:
