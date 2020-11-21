@@ -187,7 +187,11 @@ Think of a stack as collection of plates stacked upon each other. The only way t
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/PlateStack.PNG" width="490" height="200"></p>
 
-#### Reversal Property of a Stack
+#### The Reversal Property of a Stack
+One fundamentally and useful application of the stack is that the orders of the items inserted in a stack are removed in the reverse order of the insertion. 
+
+Our plate diagram briefly illustrates this concept by removing the last two plates(plate 5, and plate 4) first. 
+
 
 #### Stack ADT
 
