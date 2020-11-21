@@ -85,6 +85,7 @@ Overall time and space complexity can be impacted from several factors such as h
 
 ### Time Complexity
 The time complexity is the amount of time an algorithm takes to complete its process, and this time is usually measured by the input n, in order to compare its efficiency with other algorithms. 
+When determining time complexity, you have to ask, *how does the runtime of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much time, in a worse case scenario, is utilized?*
 
 There are three types of asymptotic notations utilized to illustrate the run time complexity:
 
