@@ -160,11 +160,25 @@ Similar to time complexity, space complexity can also be expressed using Big-O n
 
 ### Optimizing Time or Optimizing Space?
 If we had to choose between either optimizing time or optimizing space. 
+
 Overall, it depends on your needs, but in a production setting, optimizing time is the main priority because **we can buy memory, but we can't buy time!**
+
 This can lead to the best trade off of both increasing the space and lowering the time!
 
 ## BASIC DATA STRUCTURES
+A data structure is linear if data items are arranged in a sequential order.
+
+A linear data structure can be envision as having two ends, either a **front/rear** end type, a **left/right** end type, or a **top/bottom** end type.
+
+The following are examples of linear structures:
+
+* Stack
+A stack 
+* Queue
+* Deque
+* Linked-List
+
 ### Stack
-### Queues
+### Queue
 ### Deque
-### List
+### Linked-List
