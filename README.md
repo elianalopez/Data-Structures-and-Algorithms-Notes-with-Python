@@ -95,10 +95,21 @@ What is the n of O(n)?
 
 ##### Common Functions for Big-O
 * O(1) - *Constant Time*
-<br> As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice in the graph below as input get bigger the O(1) remains constant.
-*
-*
-*
+<br> As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice from the graph below, the O(1) function remains constant as input gets bigger and bigger down the x-axis.
+* O (log(n)) - *Logarithmic Time*
+<br> 
+* O(n) - *Linear Time*
+<br> 
+* O (nlog(n)) - *Logarithmic Linear Time*
+<br> 
+* O(n²) - *Quadratic Time*
+<br> 
+* O(n²) - *Linear Time*
+<br> 
+* O(2^n) - *Exponential Time*
+<br> 
+* O(n!) - *Factorial Time*
+<br> 
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
