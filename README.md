@@ -73,7 +73,7 @@ This is an illustration of the interconnection of a data structure and an algori
 <p align="center">
 ![Data-Type-Diagram](Images/Example.PNG)
 </p>
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Examlpe.PNG"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Examlpe.PNG" width="500" height="400"></p>
 
 ## Time & Space Complexity 
 
@@ -88,7 +88,7 @@ There are two ways to determine which algorithm is more efficient:
 Overall time and space complexity can be impacted from several factors such as hardware, operating system.
 ### Time Complexity
 #### Big-O
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
 ### Space Complexity
 
