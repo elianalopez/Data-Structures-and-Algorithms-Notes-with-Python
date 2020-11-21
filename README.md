@@ -87,9 +87,18 @@ Overall time and space complexity can be impacted from several factors such as h
 
 
 #### Big-O
-Big-O notation is utilized to describe the perfromance or complexity of an algorithm. 
+Big-O notation is utilized to describe the performance or complexity of an algorithm, it does with by its tail behavior (see the graph below). Big-O is typically described as the worst case scenario because the more complex your algorithm, along with large amounts of data, the longer it will take to operate with time. 
 When thinking about Big-O, ask yourself this question, *how does an algorithm speed scale when the input scale become **very large**?*
-* 
+
+What is the n of O(n)?
+* The parameter 𝑛 is often referred to as *the size of the problem*
+
+##### Common Functions for Big-O
+* O(1) - *Constant Time*
+As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice in the graph below as input get bigger the O(1) remains constant.
+*
+*
+*
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
