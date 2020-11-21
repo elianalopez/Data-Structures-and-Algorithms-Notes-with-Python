@@ -97,12 +97,12 @@ What is the n of O(n)?
 * O(1) - *Constant Time*
 <br> As an algorithm gets *very very* large, the run time of the algorithm would remain the same. If you notice from the graph below, the O(1) function remains constant as input gets bigger and bigger down the x-axis.
 * O(log(n)) - *Logarithmic Time*
-<br> The run time shapes into any typical log function, so as an algorithm gets *very very* large, this will lead to a small increase in log(n) within the y-axis.
+<br> The run time shapes into any typical log function, so as an algorithm gets *very very* large, this will lead to a small increase in log(n).
 <br> Normally logarithmic are typically base 2. One thing to think about while looking at a log is, *what must I power my base (of 2) by to get n.* Example on how to solve this problem is down below. 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/log.PNG" width="230" height="50"></p>
 
 * O(n) - *Linear Time*
-<br> The algorithm will take on the order of n operations to insert an item, so it is in proportion to the number of items. 
+<br> The algorithm will take on the order of n operations to insert an item, so it is in proportion to the input size. 
 * O(nlog(n)) - *Logarithmic Linear Time*
 <br> dd
 * O(n²) - *Quadratic Time*
