@@ -76,4 +76,7 @@ This is an illustration of the interconnection of a data structure and an algori
 
 ## Time & Space Time Complexity 
 
-Often, there is more than one way
+Often, there is more than one way to solve the same problem with different programs. So how would you be able to compare the preformance of different algorithms, *is one program better than the other?*
+
+
+
