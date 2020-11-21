@@ -104,7 +104,7 @@ What is the n of O(n)?
 * O(n) - *Linear Time*
 <br> The algorithm will take on the order of n operations to insert an item, so it is in proportion to the input size. 
 * O(nlog(n)) - *Logarithmic Linear Time*
-<br> dd
+<br> The algorithm is *doing log(n) work n times* which is where multiplication comes in place. 
 * O(n²) - *Quadratic Time*
 <br> dd
 * O(n²) - *Linear Time*
