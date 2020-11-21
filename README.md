@@ -82,8 +82,13 @@ There are two ways to determine which algorithm is more efficient:
 * The amount of time an algorithm requires to execute
 
 Overall time and space complexity can be impacted from several factors such as hardware, operating system.
+
 ### Time Complexity
+
+
 #### Big-O
+
+
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
 ### Space Complexity
@@ -92,7 +97,7 @@ When determining space complexity, you have to ask, *how does the space usage of
 
 * Space complexity includes both *auxiliary space* (temporary space) and used space
 
-Similar to time complexity, space complexity can also be expressed using Big-O notation.
+Similar to time complexity, space complexity can also be expressed using Big-O notation, such as O(n), O(nlog(n)), O(n²).
 
 *What space does your program create?*
 * *does it create a singal array of n-elements?*
