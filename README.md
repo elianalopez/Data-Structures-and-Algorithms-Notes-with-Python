@@ -184,7 +184,7 @@ The stack can be envision as having a **top/bottom** end type, where **the first
 
 Think of a stack as collection of plates stacked upon each other. The only way to access the plate of your choice (i.e. The Orange One) is to remove the plates that are sitting on top of it. The diagram below illustrates the LIFO process that is utilized in order to access the Orange Plate. 
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/PlateStack.PNG" width="490" height="180"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/PlateStack.PNG" width="490" height="200"></p>
 
 
 #### Stack ADT
