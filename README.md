@@ -106,13 +106,11 @@ What is the n of O(n)?
 * O(nlog(n)) - *Logarithmic Linear Time*
 <br> The algorithm is *doing log(n) work n times* which is where multiplication comes in place. 
 * O(n²) - *Quadratic Time*
-<br> 
-* O(n²) - *Linear Time*
-<br> dd
+<br> The algorithm is multiplying two n-digit numbers.
 * O(2^n) - *Exponential Time*
-<br> ddd
+<br> 
 * O(n!) - *Factorial Time*
-<br> dd
+<br> Any algorithm that calculates all permutation of a given array is O(N!).
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
