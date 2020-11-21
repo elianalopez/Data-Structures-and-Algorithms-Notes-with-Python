@@ -91,6 +91,7 @@ When determining time complexity, you have to ask, *how does the runtime of our 
 
 ### Three types of asymptotic notations
 Asymptotic is the nature of a graph as it reaches an untouchable bound, where we can understand how a function behaves in the asymptotic end.
+
 There are three types of asymptotic notations utilized to illustrate the run time complexity:
 
 **Big-O - O(n)**
