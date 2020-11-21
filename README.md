@@ -108,7 +108,7 @@ What is the n of O(n)?
 * O(n²) - *Quadratic Time*
 <br> The algorithm is multiplying two n-digit numbers.
 * O(2^n) - *Exponential Time*
-<br> 
+<br> The algorithm is growths a constant amount of time, (in this case doubles) within each addition of input n.
 * O(n!) - *Factorial Time*
 <br> Any algorithm that calculates all permutation of a given array is O(N!).
 
