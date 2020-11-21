@@ -29,9 +29,9 @@ These will be the key terms defined in this section:
 ### Data Types
 Data types are important because they illustrate the kind of value in the variable and tells us what operations can be performed on any particular data. Down below is an intuitive definition  of what a data type is:
 
-* An attribute of data that informs the interper on how to classify the variable. 
+* An attribute of data that informs the interpreter on how to classify the variable. 
 
-In Python there are four categories of data types: *numeric, squential, booleans, and dictonary* 
+In Python there are four categories of data types: *numeric, sequential, Booleans, and dictionary* 
 I have created a diagram of these categories of data types along with their respective data types down below.
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="85%" height="85%"></p>
@@ -53,7 +53,7 @@ Outside of computing, one example of an algorithm can be a recipe from a cookboo
 
 ### What is a Data Structure
 
-The *implementation of an abstract data type* can be refered to a data sturcture but intuitivly is a way of organizing data so it can be used effectively.
+The *implementation of an abstract data type* can be referred to a data structure but intuitively is a way of organizing data so it can be used effectively.
 
 * A data structure is a format for accessing, storing, organizing, or structuring data.
 
@@ -124,7 +124,7 @@ When determining space complexity, you have to ask, *how does the space usage of
 Similar to time complexity, space complexity can also be expressed using Big-O notation, such as O(n), O(nlog(n)), O(n²).
 
 *What space does your program create?*
-* *does it create a singal array of n-elements?*
+* *does it create a single array of n-elements?*
 * *does it create log(n) elements?*
 * *ect...*
 
