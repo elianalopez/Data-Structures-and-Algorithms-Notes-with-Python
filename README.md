@@ -100,4 +100,4 @@ Similar to time complexity, space complexity can also be expressed using Big-O n
 * *does it create log(n) elements?*
 * *ect...*
 
-*Note Runtime stack is a part of space complexity* 
+*Note: Runtime stack is a part of space complexity* 
