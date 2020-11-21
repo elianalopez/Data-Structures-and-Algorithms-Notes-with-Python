@@ -70,7 +70,7 @@ To put it simply, data structures need algorithms and algorithms need data struc
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 
 This is an illustration of the interconnection of a data structure and an algorithm:
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Example.PNG" width="480" height="150"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Example.PNG" width="680" height="150"></p>
 
 ## Time & Space Complexity 
 
@@ -89,7 +89,7 @@ Overall time and space complexity can be impacted from several factors such as h
 
 ### Space Complexity
 
-When determing space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much memory, in a worse case senario, is needed?*
+When determining space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much memory, in a worse case scenario, is needed?*
 
 * Space complexity includes both *auxiliary space* (temporary space) and used space
 
