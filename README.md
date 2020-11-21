@@ -130,3 +130,7 @@ Similar to time complexity, space complexity can also be expressed using Big-O n
 * *ect...*
 
 *Note: Runtime stack is a part of space complexity* 
+
+### Optimizing Time or Optimizing Space?
+If we had to choose between either optimizing time or optimizing space. 
+Overall, it depends on your needs, but in a production setting, optimizing time is the main priority because **we can buy memory, but we can't buy time!**
