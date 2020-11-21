@@ -36,7 +36,7 @@ I have created a diagram of these categories of data types along with their resp
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="85%" height="85%"></p>
 
-### What is an Abstract Data Types (ADT)
+### What is an Abstract Data Types (ADT)?
 
 For me, I like to think of an abstract data type as a thought process of the rules and operations of data, there is no concrete implementation, but just thoughts and ideas on how this process might work.
 
@@ -44,14 +44,14 @@ For me, I like to think of an abstract data type as a thought process of the rul
 
 Note: An ADT is the *what it does.*
 
-### What is an Algorithm
+### What is an Algorithm?
 Overall this is the most intuitive definition  of an algorithm:
 
 * A set of instructions used to solved a problem
  
 Outside of computing, one example of an algorithm can be a recipe from a cookbook to craft a meal. Where we follow a certain set of instruction from the cook book to create our meal, which would thus solve the problem of our hunger. 
 
-### What is a Data Structure
+### What is a Data Structure?
 
 The *implementation of an abstract data type* can be referred to a data structure but intuitively is a way of organizing data so it can be used effectively.
 
