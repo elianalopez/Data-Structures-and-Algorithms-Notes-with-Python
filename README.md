@@ -35,7 +35,7 @@ In Python there are four categories of data types: *numeric, squential, booleans
 I have created a diagram of these categories of data types along with their respective data types down below.
 
 ![Data-Type-Diagram](Images/DataTypes.PNG)
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="500" height="250"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="1000" height="250"></p>
 
 ### What is an Abstract Data Types (ADT)
 
@@ -70,7 +70,7 @@ To put it simply, data structures need algorithms and algorithms need data struc
 **The connection between algorithms and data structures is that an algorithm processes data and that data is then stored into a data structure.**
 
 This is an illustration of the interconnection of a data structure and an algorithm:
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Example.PNG" width="680" height="150"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Example.PNG" width="480" height="150"></p>
 
 ## Time & Space Complexity 
 
