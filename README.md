@@ -165,7 +165,7 @@ Overall, it depends on your needs, but in a production setting, optimizing time 
 
 This can lead to the best trade off of both increasing the space and lowering the time!
 
-## BASIC DATA STRUCTURES
+## Basic Data Structures
 A data structure is linear if data items are arranged in a sequential order.
 
 A linear data structure can be envision as having two ends, either a **front/rear** end type, a **left/right** end type, or a **top/bottom** end type.
