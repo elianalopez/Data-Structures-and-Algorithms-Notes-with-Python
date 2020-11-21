@@ -162,3 +162,5 @@ Overall, it depends on your needs, but in a production setting, optimizing time 
 This can lead to the best trade off of both increasing the space and lowering the time!
 
 ## BASIC DATA STRUCTURES
+### Stack
+### Queues
