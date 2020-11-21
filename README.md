@@ -72,6 +72,7 @@ To put it simply, data structures need algorithms and algorithms need data struc
 This is an illustration of the interconnection of a data structure and an algorithm:
 
 ![Data-Type-Diagram](Images/Example.PNG)
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Example.PNG" width="300" height="200"></p>
 
 
 ## Time & Space Complexity 
