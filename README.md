@@ -106,7 +106,7 @@ What is the n of O(n)?
 * O(nlog(n)) - *Logarithmic Linear Time*
 <br> The algorithm is *doing log(n) work n times* which is where multiplication comes in place. 
 * O(n²) - *Quadratic Time*
-<br> The algorithm is multiplying two n-digit numbers.
+<br> The algorithm is proportionally the squared number of inputs.
 * O(2^n) - *Exponential Time*
 <br> The algorithm is growths a constant amount of time, (in this case doubles) within each addition of input n.
 * O(n!) - *Factorial Time*
