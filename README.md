@@ -87,14 +87,17 @@ Overall time and space complexity can be impacted from several factors such as h
 The time complexity is the amount of time an algorithm takes to complete its process, and this time is usually measured by the input n, in order to compare its efficiency with other algorithms. 
 
 There are three types of asymptotic notations utilized to illustrate the run time complexity:
+
 **Big O - O(n)**
 * Worst Case
 * Upperbound
 * Slowest runtime
+
 **Big Theta - Θ(n)**
 * Average Case
 * Average runtime
 * Tight Bound of function complexity
+
 **Big Omega - Ω(n)**
 * Best Case
 * Fastest runtime
