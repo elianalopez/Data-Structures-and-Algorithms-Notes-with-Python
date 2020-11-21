@@ -35,7 +35,7 @@ In Python there are four categories of data types: *numeric, squential, booleans
 I have created a diagram of these categories of data types along with their respective data types down below.
 
 ![Data-Type-Diagram](Images/DataTypes.PNG)
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="1000" height="250"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="800" height="250"></p>
 
 ### What is an Abstract Data Types (ADT)
 
