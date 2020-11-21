@@ -85,5 +85,16 @@ There are two ways to determine which algorithm is more efficient:
 * The amount of time an algorithm requires to execute
 
 Overall time and space complexity can be impacted from several factors such as hardware, operating system.
+### Time Complexity
 
-### Space complexity
+### Space Complexity
+
+When determing space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger*
+
+* Space complexity includes both *auxiliary space* (temporary space) and used space
+
+Similar to time complexity, space complexity can also be expressed using Big-O notation.
+
+*What space does your program create?*
+
+*Runtime stack is a part of space complexity* 
