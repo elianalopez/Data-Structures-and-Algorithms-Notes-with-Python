@@ -181,7 +181,7 @@ The following are examples of linear structures:
 A stack is a linear data structure with a **Last in First Out (LIFO)** removal procedure, so the addition and removal of items takes place within the same end.
 
 The stack can be envision as having a **top/bottom** end type, where **the first item that is inserted would be in the bottom, and the last item inserted will be at the top**.
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Stack.PNG" width="490" height="250"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Stack.PNG" width="490" height="270"></p>
 
 Think of a stack as collection of plates stacked upon each other. The only way to access the plate of your choice (i.e. The Orange One) is to remove the plates that are sitting on top of it. The diagram below illustrates the LIFO process that is utilized in order to access the Orange Plate. 
 
