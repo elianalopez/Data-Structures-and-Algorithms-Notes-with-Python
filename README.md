@@ -101,7 +101,7 @@ What is the n of O(n)?
 * O(n) - *Linear Time*
 <br> dd
 * O (nlog(n)) - *Logarithmic Linear Time*
-<br> 
+<br> dd
 * O(n²) - *Quadratic Time*
 <br> dd
 * O(n²) - *Linear Time*
