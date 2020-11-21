@@ -13,7 +13,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
 <summary>click to expand</summary>
  
 - [Introduction and the Basics](#Introduction-and-the-Basics)  
-- [Time & Space Time Complexity](#Time--Space-Time-Complexity)
+- [Time & Space Complexity](#Time--Space-Complexity)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
@@ -74,7 +74,7 @@ This is an illustration of the interconnection of a data structure and an algori
 ![Data-Type-Diagram](Images/Example.PNG)
 
 
-## Time & Space Time Complexity 
+## Time & Space Complexity 
 
 Often, there is more than one way to solve the same problem with different programs. So how would you be able to compare the performance of different algorithms, *is one program better than the other?*
 
@@ -86,3 +86,4 @@ There are two ways to determine which algorithm is more efficient:
 
 Overall time and space complexity can be impacted from several factors such as hardware, operating system.
 
+### Space complexity
