@@ -84,4 +84,5 @@ There are two ways to determine which algorithm is more efficient:
 * The amount of space or memory an algorithm requires
 * The amount of time an algorithm requires to execute
 
+Overall time and space complexity can be impacted from several factors such as hardware, operating system.
 
