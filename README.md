@@ -89,12 +89,15 @@ Overall time and space complexity can be impacted from several factors such as h
 
 ### Space Complexity
 
-When determing space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger*
+When determing space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much memory, in a worse case senario, is needed?*
 
 * Space complexity includes both *auxiliary space* (temporary space) and used space
 
 Similar to time complexity, space complexity can also be expressed using Big-O notation.
 
 *What space does your program create?*
+* *does it create a singal array of n-elements?*
+* *does it create log(n) elements?*
+* *ect...*
 
 *Runtime stack is a part of space complexity* 
