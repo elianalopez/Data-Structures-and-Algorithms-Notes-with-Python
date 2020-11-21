@@ -159,3 +159,5 @@ Similar to time complexity, space complexity can also be expressed using Big-O n
 If we had to choose between either optimizing time or optimizing space. 
 Overall, it depends on your needs, but in a production setting, optimizing time is the main priority because **we can buy memory, but we can't buy time!**
 This can lead to the best trade off of both increasing the space and lowering the time!
+
+## BASIC DATA STRUCTURES
