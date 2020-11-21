@@ -97,19 +97,19 @@ What is the n of O(n)?
 * O(1) - *Constant Time*
 <br> As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice from the graph below, the O(1) function remains constant as input gets bigger and bigger down the x-axis.
 * O (log(n)) - *Logarithmic Time*
-<br> 
+<br> dd
 * O(n) - *Linear Time*
-<br> 
+<br> dd
 * O (nlog(n)) - *Logarithmic Linear Time*
 <br> 
 * O(n²) - *Quadratic Time*
-<br> 
+<br> dd
 * O(n²) - *Linear Time*
-<br> 
+<br> dd
 * O(2^n) - *Exponential Time*
-<br> 
+<br> dd
 * O(n!) - *Factorial Time*
-<br> 
+<br> dd
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
