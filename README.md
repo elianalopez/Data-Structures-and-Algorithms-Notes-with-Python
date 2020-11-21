@@ -107,7 +107,7 @@ What is the n of O(n)?
 * O(n²) - *Linear Time*
 <br> dd
 * O(2^n) - *Exponential Time*
-<br> dd
+<br> ddd
 * O(n!) - *Factorial Time*
 <br> dd
 
