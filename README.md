@@ -88,6 +88,7 @@ Overall time and space complexity can be impacted from several factors such as h
 
 #### Big-O
 Big-O notation is utilized to describe the perfromance or complexity of an algorithm. 
+When thinking about Big-O, ask yourself this question, *how does an algorithm speed scale when the input scale become **very large**  ?*
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
 
