@@ -90,6 +90,7 @@ The time complexity is the amount of time an algorithm takes to complete its pro
 When determining time complexity, you have to ask, *how does the runtime of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much time, in a worse case scenario, is utilized?*
 
 ### Three types of asymptotic notations
+Asymptotic is the nature of a graph as it reaches an untouchable bound, where we can understand how a function behaves in the asymptotic end.
 There are three types of asymptotic notations utilized to illustrate the run time complexity:
 
 **Big-O - O(n)**
