@@ -87,7 +87,8 @@ There are two ways to determine which algorithm is more efficient:
 Overall time and space complexity can be impacted from several factors such as hardware, operating system.
 ### Time Complexity
 #### Big-O
-![Big-O-Diagram](Images/Big-O.PNG){:height="36px" width="36px"}.
+<img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="260">
+
 ### Space Complexity
 
 When determing space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much memory, in a worse case senario, is needed?*
