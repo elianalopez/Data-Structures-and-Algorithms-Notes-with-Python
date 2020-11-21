@@ -166,3 +166,5 @@ This can lead to the best trade off of both increasing the space and lowering th
 ## BASIC DATA STRUCTURES
 ### Stack
 ### Queues
+### Deque
+### List
