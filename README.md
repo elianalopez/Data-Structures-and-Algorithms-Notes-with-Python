@@ -135,7 +135,7 @@ As seen in the graph above you can notice that Big-O gives us a tight-upperbound
 
 **Note for O(log(n)):**
 Normally logarithmic are typically base 2. One thing to think about while looking at a log is, *what must I power my base (of 2) by to get n.* Example on how to solve this problem is down below. 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/log.PNG" width="270" height="50"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/log.PNG" width="290" height="50"></p>
 
 
 ### Space Complexity
