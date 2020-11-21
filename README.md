@@ -99,6 +99,7 @@ What is the n of O(n)?
 * O(log(n)) - *Logarithmic Time*
 <br> As an algorithm gets very very large, the run time shapes into a typical log function. Normally logarithmic are typically base 2. One thing to think about while looking at a log is, *what must I power my base (of 2) by to get n.* Example on how to solve this problem is down below. 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/log.PNG" width="200" height="80"></p>
+
 * O(n) - *Linear Time*
 <br> As t
 * O(nlog(n)) - *Logarithmic Linear Time*
