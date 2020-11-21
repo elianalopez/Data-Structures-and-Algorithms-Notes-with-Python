@@ -96,11 +96,11 @@ What is the n of O(n)?
 ##### Common Functions for Big-O
 * O(1) - *Constant Time*
 <br> As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice from the graph below, the O(1) function remains constant as input gets bigger and bigger down the x-axis.
-* O (log(n)) - *Logarithmic Time*
-<br> dd
+* O(log(n)) - *Logarithmic Time*
+<br> As an algorithm gets very very large, the run time shapes into a typical log function. Normally logarithmic are typically base 2. One thing to think about while looking at a log is, *what must I power my base (of 2) by to get n.* Example on how to solve this problem is down below. 
 * O(n) - *Linear Time*
-<br> dd
-* O (nlog(n)) - *Logarithmic Linear Time*
+<br> As t
+* O(nlog(n)) - *Logarithmic Linear Time*
 <br> dd
 * O(n²) - *Quadratic Time*
 <br> dd
