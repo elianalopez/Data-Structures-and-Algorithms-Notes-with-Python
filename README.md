@@ -78,6 +78,10 @@ This is an illustration of the interconnection of a data structure and an algori
 
 Often, there is more than one way to solve the same problem with different programs. So how would you be able to compare the performance of different algorithms, *is one program better than the other?*
 
-Well the answer to that question is quite simple, you have to see which program is more *efficient*. 
+Well the answer to that question is quite simple, you have to see *which program is more efficient*. 
+
+There are two ways to determine which algorithm is more efficient:
+* The amount of space or memory an algorithm requires
+* The amount of time an algorithm requires to execute
 
 
