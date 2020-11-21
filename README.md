@@ -91,7 +91,7 @@ When determining time complexity, you have to ask, *how does the runtime of our 
 ### Three types of asymptotic notations
 There are three types of asymptotic notations utilized to illustrate the run time complexity:
 
-**Big O - O(n)**
+**Big-O - O(n)**
 * Worst Case
 * Upperbound
 * Slowest runtime
