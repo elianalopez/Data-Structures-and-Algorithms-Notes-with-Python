@@ -95,6 +95,7 @@ What is the n of O(n)?
 
 ##### Common Functions for Big-O
 * O(1) - *Constant Time*
+
 As an algorithm gets very very large, the run time of the algorithm would remain the same. If you notice in the graph below as input get bigger the O(1) remains constant.
 *
 *
