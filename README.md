@@ -21,7 +21,9 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
 
 ## Introduction and the Basics
 For this introduction I am going to define key terms so we can do into more depth about the applications and uses of data structures and algorithms.
+
 These will be the key terms defined in this section:
+
 * Data Types
 * Abstract Data Types
 * Algorithm
@@ -33,6 +35,7 @@ Data types are important because they illustrate the kind of value in the variab
 * An attribute of data that informs the interpreter on how to classify the variable. 
 
 In Python there are four categories of data types: *numeric, sequential, Booleans, and dictionary* 
+
 I have created a diagram of these categories of data types along with their respective data types down below.
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/DataTypes.PNG" width="85%" height="85%"></p>
@@ -112,6 +115,7 @@ There are three types of asymptotic notations utilized to illustrate the run tim
 
 #### Big-O
 Big-O notation is utilized to describe the performance or complexity of an algorithm, it does with by its tail behavior (see the graph below). Big-O is typically described as the worst case scenario because the more complex your algorithm, along with large amounts of data, the longer it will take to operate with time. 
+
 When thinking about Big-O, ask yourself this question, *how does an algorithm speed scale when the input scale become **very large**?*
 
 What is the n of O(n)?
@@ -191,7 +195,6 @@ Think of a stack as collection of plates stacked upon each other. The only way t
 One fundamentally and useful application of the stack is that the orders of the items inserted in a stack are removed in the reverse order of the insertion. 
 
 Our plate diagram briefly illustrates this concept by removing the last two plates(plate 5, and plate 4) first. 
-
 
 #### Stack ADT
 
