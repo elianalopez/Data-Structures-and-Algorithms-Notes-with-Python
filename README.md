@@ -197,6 +197,16 @@ One fundamentally and useful application of the stack is that the orders of the 
 Our plate diagram briefly illustrates this concept by removing the last two plates(plate 5, and plate 4) first. 
 
 #### Stack ADT
+Stack as an ADT is the picture of how the stack works with data along with the operations the stack utilizes. As stated earlier, *an ADT is the "what it does"* another way to view an ADT is a mathematical blue print. 
+
+These are he following operations of a stack:
+
+* **Stack()**
+* **push(*item*)**
+* **pop()**
+* **peek()**
+* **is_empty()**
+* **size()**
 
 ### Queue
 ### Deque
