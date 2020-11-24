@@ -210,6 +210,8 @@ These are he following operations of a stack:
 * **is_empty()** - returns a boolean value (True or False), if whether the stack is empty or not.
 * **size()** - returns the number of items in the stack.
 
+To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Java/blob/master/Assignment1/PLP-Assignment1.pdf">click here for the source code</a>.
+
 ### Queue
 ### Deque
 ### Linked-List
