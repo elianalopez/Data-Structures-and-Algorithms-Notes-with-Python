@@ -20,7 +20,6 @@ class Stack:
             #return(self.items[len(self.items)-1]) an alternative
         elif len(self.items) == 0:
             return None
-            
 
     def isEmpty(self):
         return self.items == []
