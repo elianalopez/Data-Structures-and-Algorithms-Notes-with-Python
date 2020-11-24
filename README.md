@@ -197,16 +197,18 @@ One fundamentally and useful application of the stack is that the orders of the 
 Our plate diagram briefly illustrates this concept by removing the last two plates(plate 5, and plate 4) first. 
 
 #### Stack ADT
-Stack as an ADT is the picture of how the stack works with data along with the operations the stack utilizes. As stated earlier, *an ADT is the "what it does"* another way to view an ADT is a mathematical blue print. 
+Stack as an ADT is the picture of how the stack works with data along with the operations the stack utilizes. 
+
+As stated earlier, *an ADT is the "what it does"* another way to view an ADT is a mathematical blue print. 
 
 These are he following operations of a stack:
 
-* **Stack()**
-* **push(*item*)**
-* **pop()**
-* **peek()**
-* **is_empty()**
-* **size()**
+* **Stack()** - creates an empty stack.
+* **push(*item*)** - adds a new item to the top of the stack.
+* **pop()** - removes item from the top of the stack.
+* **peek()** - returns the item from the top of the stack but does not remove it, thus it peaks at the stack. 
+* **is_empty()** - returns a boolean value (True or False), if whether the stack is empty or not.
+* **size()** - returns the number of items in the stack.
 
 ### Queue
 ### Deque
