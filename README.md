@@ -26,6 +26,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
   * [Queue](#Queue)
   * [Deque](#Deque)
   * [Linked-List](#Linked-List)
+  - [Recursion](#Recursion)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
@@ -267,3 +268,5 @@ These are the following operations of a deque:
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="700" height="200"></p>
 
 ### Linked-List
+
+## Recursion
