@@ -14,8 +14,8 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
  
 - [Introduction and the Basics](#Introduction-and-the-Basics)  
   * [Data Types](#Data-Types)  
-  * [What is an Algorithm?](#What-is-an-Algorithm?) 
-  * [What is a Data Structure?](#What-is-a-Data-Structure?)   
+  * [What is an Algorithm?](#What-is-an-Algorithm) 
+  * [What is a Data Structure?](#What-is-a-Data-Structure)   
 - [Time & Space Complexity](#Time--Space-Complexity)
   * [Time Complexity](#Time-Complexity)  
   * [Big-O](#Big-O)  
