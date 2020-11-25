@@ -239,12 +239,25 @@ These are the following operations of a queue:
 * **Queue()** - creates a new empty queue.
 * **enqueue(*item*)** - adds a new item to the rear of the queue.
 * **dequeue()** - removes item from the front of the queue.
-* **is_empty()** - returns a Boolean value (True or False), if whether the stack is empty or not.
-* **size()** - returns the number of items in the stack.
+* **is_empty()** - returns a Boolean value (True or False), if whether the queue is empty or not.
+* **size()** - returns the number of items in the queue.
 
 Down below is an illustration of how the enqueue and dequeue operation would function within a queue. 
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
 ### Deque
+
+#### Deque ADT
+
+These are the following operations of a deque:
+
+* **Deque()** - creates a new empty deque.
+* **add_front(*item*)** - adds a new item to the front of the deque.
+* **remove_front()** - removes item from the front of the deque.
+* **add_rear(*item*)** - adds a new item to the rear of the deque.
+* **remove_rear()** - removes item from the front of the deque.
+* **is_empty()** - returns a Boolean value (True or False), if whether the deque is empty or not.
+* **size()** - returns the number of items in the deque.
+
 ### Linked-List
