@@ -26,7 +26,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
   * [Queue](#Queue)
   * [Deque](#Deque)
   * [Linked-List](#Linked-List)
-  - [Recursion](#Recursion)
+ - [Recursion](#Recursion)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
