@@ -226,6 +226,8 @@ To see Stack ADT implementation in Python via a custom Stack Class <a href="http
 ### Queue
 Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove based on chronological type order, where the first items are removed. 
 
+The first image down below is a standard structure of a queue. From this image you can see that a queue has a **front/rear** end type, where **the first item that is inserted will be located at the front, and the last item inserted will be at the rear**.
+
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="400" height="180"></p>
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
