@@ -224,5 +224,8 @@ These are he following operations of a stack:
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Stack/Stack.py">click here for the source code</a>.
 
 ### Queue
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="490" height="200"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="490" height="200"></p>
+
 ### Deque
 ### Linked-List
