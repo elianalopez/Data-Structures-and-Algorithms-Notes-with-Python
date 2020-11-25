@@ -218,7 +218,7 @@ These are he following operations of a stack:
 * **push(*item*)** - adds a new item to the top of the stack.
 * **pop()** - removes item from the top of the stack.
 * **peek()** - returns the item from the top of the stack but does not remove it, thus it peaks at the stack. 
-* **is_empty()** - returns a boolean value (True or False), if whether the stack is empty or not.
+* **is_empty()** - returns a Boolean value (True or False), if whether the stack is empty or not.
 * **size()** - returns the number of items in the stack.
 
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Stack/Stack.py">click here for the source code</a>.
@@ -233,12 +233,12 @@ The first image down below is a standard structure of a queue. From this image y
 
 #### Queue ADT
 
-These are he following operations of a queue:
+These are the following operations of a queue:
 
 * **Queue()** - creates a new empty queue.
 * **enqueue(*item*)** - adds a new item to the rear of the queue.
 * **dequeue()** - removes item from the front of the queue.
-* **is_empty()** - returns a boolean value (True or False), if whether the stack is empty or not.
+* **is_empty()** - returns a Boolean value (True or False), if whether the stack is empty or not.
 * **size()** - returns the number of items in the stack.
 
 Down below is an illustration of how the enqueue and dequeue operation would function within a queue. 
