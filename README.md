@@ -224,7 +224,7 @@ These are he following operations of a stack:
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Stack/Stack.py">click here for the source code</a>.
 
 ### Queue
-Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove based on chronological type order, where the first items are removed. 
+Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove chronologically, where the first items are removed. 
 
 The first image down below is a standard structure of a queue. From this image you can see that a queue has a **front/rear** end type, where **the first item that is inserted will be located at the front, and the last item inserted will be at the rear**.
 
