@@ -225,7 +225,7 @@ To see Stack ADT implementation in Python via a custom Stack Class <a href="http
 
 ### Queue
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="490" height="200"></p>
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="490" height="200"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
 ### Deque
 ### Linked-List
