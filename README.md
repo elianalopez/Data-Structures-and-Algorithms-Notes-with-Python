@@ -14,6 +14,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
  
 - [Introduction and the Basics](#Introduction-and-the-Basics)  
 - [Time & Space Complexity](#Time--Space-Complexity)
+  * [Big-O](#Big-O)  
 - [Basic Data Structures](#Basic-Data-Structures)
   * [Stack](#Stack)  
   * [Queue](#Queue)
