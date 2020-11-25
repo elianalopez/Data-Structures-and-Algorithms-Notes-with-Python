@@ -13,8 +13,13 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
 <summary>click to expand</summary>
  
 - [Introduction and the Basics](#Introduction-and-the-Basics)  
+  * [Data Types](#Data-Types)  
+  * [What is an Algorithm?](#What-is-an-Algorithm?) 
+  * [What is a Data Structure?](#What-is-a-Data-Structure?)   
 - [Time & Space Complexity](#Time--Space-Complexity)
+  * [Time Complexity](#Time-Complexity)  
   * [Big-O](#Big-O)  
+  * [Space Complexity](#Space-Complexity)  
 - [Basic Data Structures](#Basic-Data-Structures)
   * [Stack](#Stack)  
   * [Queue](#Queue)
@@ -118,7 +123,7 @@ There are three types of asymptotic notations utilized to illustrate the run tim
 * Lowerbound
 
 
-#### Big-O
+### Big-O
 Big-O notation is utilized to describe the performance or complexity of an algorithm, it does with by its tail behavior (see the graph below). Big-O is typically described as the worst case scenario because the more complex your algorithm, along with large amounts of data, the longer it will take to operate with time. 
 
 When thinking about Big-O, ask yourself this question, *how does an algorithm speed scale when the input scale become **very large**?*
