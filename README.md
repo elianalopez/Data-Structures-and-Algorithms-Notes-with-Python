@@ -248,6 +248,10 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 
 ### Deque
 
+A deque also known as a double-ended queue is another type of linear collection of items. Similar to a queue, it also has a **front/rear** end type however what makes a deque different is how items can be added or removed from the front or the rear.
+
+Removal is not LIFO or FIFO based but up to the programmer themselves to make consistent use of the addition and removal operations. 
+
 #### Deque ADT
 
 These are the following operations of a deque:
