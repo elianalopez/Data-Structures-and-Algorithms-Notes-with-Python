@@ -193,7 +193,7 @@ The following are examples of linear structures:
 * Linked-List
 
 ### Stack
-A stack is a linear data structure with a **Last in First Out (LIFO)** removal procedure, so the addition and removal of items takes place within the same end.
+A stack is a linear data structure with a **Last In First Out (LIFO)** removal procedure, so the addition and removal of items takes place within the same end.
 
 The stack can be envision as having a **top/bottom** end type, where **the first item that is inserted would be in the bottom, and the last item inserted will be at the top**.
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Stack.PNG" width="490" height="270"></p>
@@ -224,6 +224,8 @@ These are he following operations of a stack:
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Stack/Stack.py">click here for the source code</a>.
 
 ### Queue
+Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove based on chronological type order, where the first items are removed. 
+
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="400" height="180"></p>
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
