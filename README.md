@@ -230,6 +230,7 @@ The first image down below is a standard structure of a queue. From this image y
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="400" height="180"></p>
 
+One way to think of a queue is like being in line in a supermarket, whoever is first in line would get check out first, and this process would continue in a sequential manner until after the last person on line checks out.
 
 #### Queue ADT
 
