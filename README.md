@@ -221,7 +221,7 @@ These are he following operations of a stack:
 * **is_empty()** - returns a Boolean value (True or False), if whether the stack is empty or not.
 * **size()** - returns the number of items in the stack.
 
-To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Stack/Stack.py">click here for the source code</a>.
+To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/tree/main/BasicDataStructures/Stack">click here for the source code</a>.
 
 ### Queue
 Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove chronologically, where the first items are removed. 
