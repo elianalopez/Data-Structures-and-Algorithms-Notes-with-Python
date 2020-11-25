@@ -214,7 +214,7 @@ As stated earlier, *an ADT is the "what it does"* another way to view an ADT is 
 
 These are he following operations of a stack:
 
-* **Stack()** - creates an empty stack.
+* **Stack()** - creates a new empty stack.
 * **push(*item*)** - adds a new item to the top of the stack.
 * **pop()** - removes item from the top of the stack.
 * **peek()** - returns the item from the top of the stack but does not remove it, thus it peaks at the stack. 
@@ -229,6 +229,20 @@ Another type of linear data structure is called a Queue and it has a **First In 
 The first image down below is a standard structure of a queue. From this image you can see that a queue has a **front/rear** end type, where **the first item that is inserted will be located at the front, and the last item inserted will be at the rear**.
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QueueDiagram.PNG" width="400" height="180"></p>
+
+
+#### Queue ADT
+
+These are he following operations of a queue:
+
+* **Queue()** - creates a new empty queue.
+* **enqueue(*item*)** - adds a new item to the rear of the queue.
+* **dequeue()** - removes item from the front of the queue.
+* **is_empty()** - returns a boolean value (True or False), if whether the stack is empty or not.
+* **size()** - returns the number of items in the stack.
+
+Down below is an illustration of how the enqueue and dequeue operation would function within a queue. 
+
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
 ### Deque
