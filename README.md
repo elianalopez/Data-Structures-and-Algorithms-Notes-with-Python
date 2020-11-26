@@ -224,6 +224,14 @@ These are he following operations of a stack:
 
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/tree/main/BasicDataStructures/Stack">click here for the source code</a>.
 
+#### Stack Big-O Analysis
+
+* **push(*item*)** - O(1)
+* **pop()** - O(1)
+* **peek()** - O(1)
+* **is_empty()** - O(1)
+* **size()** - O(1)
+
 ### Queue
 Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove chronologically, where the first items are removed. 
 
