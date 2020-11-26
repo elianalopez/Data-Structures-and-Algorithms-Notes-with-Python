@@ -255,6 +255,13 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="700" height="200"></p>
 
+#### Queue Big-O Analysis
+
+* **enqueue(*item*)** - O(1)
+* **dequeue()** - O(1)
+* **is_empty()** - O(1)
+* **size()** - O(1)
+
 ### Deque
 
 A deque also known as a double-ended queue is another type of linear collection of items. Similar to a queue, it also has a **front/rear** end type however what makes a deque different is how items can be added or removed from the front or the rear.
