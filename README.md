@@ -255,7 +255,7 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="80%" height="80%"></p>
 
-#### Queue Big-O Analysis
+#### Queue Big-O Analysis - Time Complexity
 
 * **enqueue(*item*)** - O(1)
 * **dequeue()** - O(1)
