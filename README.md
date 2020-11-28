@@ -262,6 +262,8 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 * **is_empty()** - O(1)
 * **size()** - O(1)
 
+**NOTE: The space usage of the array based stack is O(n) where n is the amount of elements in the stack.**
+
 ### Deque
 
 A deque also known as a double-ended queue is another type of linear collection of items. Similar to a queue, it also has a **front/rear** end type however what makes a deque different is how items can be added or removed from the front or the rear.
