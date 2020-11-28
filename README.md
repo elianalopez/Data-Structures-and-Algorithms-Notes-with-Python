@@ -266,7 +266,7 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 
 A deque also known as a double-ended queue is another type of linear collection of items. Similar to a queue, it also has a **front/rear** end type however what makes a deque different is how items can be added or removed from the front or the rear.
 
-Removal is not LIFO or FIFO based but up to the programmer themselves to make consistent use of the addition and removal operations. 
+Removal is not LIFO or FIFO based but up to the programmer themselves to make consistent use of the addition and removal operations. Thus new items can be added or removed at either the front or the rear. 
 
 #### Deque ADT
 
@@ -282,6 +282,7 @@ These are the following operations of a deque:
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="700" height="200"></p>
 
-### Linked-List
+### Lists
+A list is a collection of items where each item holds a relative position with respect to others.
 
 ## Recursion
