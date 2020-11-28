@@ -280,7 +280,7 @@ These are the following operations of a deque:
 * **is_empty()** - returns a Boolean value (True or False), if whether the deque is empty or not.
 * **size()** - returns the number of items in the deque.
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="700" height="200"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="100%" height="100%"></p>
 
 ### Lists
 A list is a collection of items where each item holds a relative position with respect to others.
