@@ -232,6 +232,8 @@ To see Stack ADT implementation in Python via a custom Stack Class <a href="http
 * **is_empty()** - O(1)
 * **size()** - O(1)
 
+**NOTE: The space usage of the array based stack is O(n) where n is the amount of elements in the stack.**
+
 ### Queue
 Another type of linear data structure is called a Queue and it has a **First In First Out (FIFO)** removal procedure, so the items are remove chronologically, where the first items are removed. 
 
@@ -262,7 +264,6 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 * **is_empty()** - O(1)
 * **size()** - O(1)
 
-**NOTE: The space usage of the array based stack is O(n) where n is the amount of elements in the stack.**
 
 ### Deque
 
