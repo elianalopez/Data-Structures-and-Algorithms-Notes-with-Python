@@ -224,7 +224,7 @@ These are he following operations of a stack:
 
 To see Stack ADT implementation in Python via a custom Stack Class <a href="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/tree/main/BasicDataStructures/Stack">click here for the source code</a>.
 
-#### Stack Big-O Analysis
+#### Stack Big-O Analysis - Time Complexity
 
 * **push(*item*)** - O(1)
 * **pop()** - O(1)
