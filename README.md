@@ -253,7 +253,7 @@ These are the following operations of a queue:
 
 Down below is an illustration of how the enqueue and dequeue operation would function within a queue. 
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="80%" height="80%"></p>
 
 #### Queue Big-O Analysis
 
@@ -280,7 +280,7 @@ These are the following operations of a deque:
 * **is_empty()** - returns a Boolean value (True or False), if whether the deque is empty or not.
 * **size()** - returns the number of items in the deque.
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="80%" height="80%"></p>
 
 ### Lists
 A list is a collection of items where each item holds a relative position with respect to others.
