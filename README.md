@@ -264,6 +264,7 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 * **is_empty()** - O(1)
 * **size()** - O(1)
 
+**NOTE: The space usage of the array based queue is O(n) where n is the amount of elements in the queue.**
 
 ### Deque
 
