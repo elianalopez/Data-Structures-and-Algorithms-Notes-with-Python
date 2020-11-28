@@ -257,7 +257,7 @@ Down below is an illustration of how the enqueue and dequeue operation would fun
 
 #### Queue Big-O Analysis - Time Complexity
 
-* **enqueue(*item*)** - O(1)
+* **enqueue(*item*)** - O(n)
 * **dequeue()** - O(1)
 * **is_empty()** - O(1)
 * **size()** - O(1)
