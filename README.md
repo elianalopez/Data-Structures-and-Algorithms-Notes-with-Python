@@ -286,6 +286,15 @@ These are the following operations of a deque:
 
 <p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Deque.PNG" width="80%" height="80%"></p>
 
+#### Deque Big-O Analysis - Time Complexity
+
+* **add_front(*item*)** - O(1)
+* **remove_front()** - O(1)
+* **add_rear(*item*)** - O(n)
+* **remove_rear()** - O(n)
+* **is_empty()** - O(1)
+* **size()** - O(1)
+
 ### Lists
 A list is a collection of items where each item holds a relative position with respect to others.
 
