@@ -319,7 +319,7 @@ Let's say we want to insert another element to this array, so we inserted *"e"* 
  
 However our size would look like this:
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/InsertArray.PNG" width="100%" height="100%"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/InsertArray.PNG" width="800" height="180"></p>
 
 This is because the elements of this dynamic array allocates a larger chunk of memory by copying the contents from its original array, as a result there is unused space which means there is more allocated memory than necessary. 
 
