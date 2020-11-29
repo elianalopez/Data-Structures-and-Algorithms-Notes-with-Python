@@ -296,6 +296,11 @@ These are the following operations of a deque:
 * **size()** - O(1)
 
 ### Lists
+
 A list is a collection of items where each item holds a relative position with respect to others.
+
+In Python there is the built-in **array based list** which is written as comma-delimited values surrounded by square brackets.
+
+
 
 ## Recursion
