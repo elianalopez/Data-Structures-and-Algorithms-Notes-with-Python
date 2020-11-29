@@ -340,7 +340,7 @@ There are two types of linked-list we would go over:
 
 ### Nodes
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/UnorderedLinkedList.PNG" width="900" height="180"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/UnorderedLinkedList.PNG" width="900" height="120"></p>
 
 
 #### Unordered List ADT
