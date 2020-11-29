@@ -25,8 +25,9 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
   * [Stack](#Stack)  
   * [Queue](#Queue)
   * [Deque](#Deque)
+- [Lists](#Lists)
   * [Linked-List](#Linked-List)
- - [Recursion](#Recursion)
+- [Recursion](#Recursion)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
@@ -333,5 +334,21 @@ An alternative data structure to utilize are **linked-lists** because of its two
 There are two types of linked-list we would go over:
 * Unordered Linked-List
 * Ordered Linked-List
+
+#### Unordered List ADT
+
+These are the following operations of the unordered linked list:
+
+* **List()** - creates a new empty list.
+* **add(*item*)** - adds a new item to the list.
+* **remove(*item*)** - removes item from the list.
+* **search(*item*)** - searchesthe item in the list.
+* **append(*item*)** - adds a new item to the end of the list.
+* **index(*item*)** - returns the postion of the item in the list.
+* **insert(*pos*, *item*)** - adds a new item at the given index postion.
+* **pop()** - removes item from the end of the list.
+* **pop(*pos*)** - removes item from the given index postion.
+* **is_empty()** - returns a Boolean value (True or False), if whether the list is empty or not.
+* **size()** - returns the number of items in the list.
 
 ## Recursion
