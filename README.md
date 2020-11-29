@@ -301,11 +301,13 @@ A list is a collection of items where each item holds a relative position with r
 
 #### Array-Based List
 
+Arrays are contiguous data structures, which means that they are neighboring blocks of memory. 
+
 In Python there is the built-in **array based list** which is written as comma-delimited values surrounded by square brackets, which be be something like this:
 
  ``` [1, 3.1415, "Pie", True] ```
 
-Arrays are contiguous data structures, which means that they are neighboring blocks of memory. 
+Since arrays are contiguous blocks of memory, this is how the space of the array-based list from above would look like:
 
 The **array-based list in Python is dynamic**, which means that the size can be modified by the programmer after its orignal declaration. Also in Python the **array-based list is hetrogeneous**, so items in the list do not need to be from the class.
 
