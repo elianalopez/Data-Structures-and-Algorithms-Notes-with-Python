@@ -309,15 +309,19 @@ Arrays are contiguous data structures, which means that they are neighboring blo
 
 The **array-based list in Python is dynamic**, which means that the size can be modified by the programmer after its orignal declaration. Also in Python the **array-based list is hetrogeneous**, so items in the list do not need to be from the class.
 
-Let's say we want to add another element to this array, so we add *"e"* to the end of it, then our list would look like this: 
+Let's say we want to insert another element to this array, so we inserted *"e"* to *index 1* of the array, then our array-based list would look like this: 
 
- ``` [1, 3.1415, "Pie", True, "e"] ```
+ ``` [1, "e", 3.1415, "Pie", True] ```
  
- However our size would look like this:
+However our size would look like this:
  
- This is because the elements of this dynamic array allocates a larger chunk of memory by copying the contents from its original array, as a result there is unused space which means there is more allocated memory than necessary. 
- 
-#### 
+This is because the elements of this dynamic array allocates a larger chunk of memory by copying the contents from its original array, as a result there is unused space which means there is more allocated memory than necessary. 
 
+An alternative data structure to utilize are **linked-lists** because of its two main benefits over the **array-based list**.
+
+* There would be no pre-allocation in space
+* Insertion is easier
+ 
+### Linked-List
 
 ## Recursion
