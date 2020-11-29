@@ -368,3 +368,13 @@ These are the following operations of the ordered linked list:
 * **size()** - returns the number of items in the list.
 
 ## Recursion
+
+A recursive function is a function that calls itself.
+
+There are three principals of a recursive function:
+
+* Know when to stop
+* Decide how to take step 1
+* Break down the task into smaller tasks
+
+## Searching and Sorting
