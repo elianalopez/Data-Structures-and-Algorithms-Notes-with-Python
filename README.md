@@ -299,10 +299,25 @@ These are the following operations of a deque:
 
 A list is a collection of items where each item holds a relative position with respect to others.
 
+#### Array-Based List
+
 In Python there is the built-in **array based list** which is written as comma-delimited values surrounded by square brackets, which be be something like this:
 
  ``` [1, 3.1415, "Pie", True] ```
 
+Arrays are contiguous data structures, which means that they are neighboring blocks of memory. 
+
+The **array-based list in Python is dynamic**, which means that the size can be modified by the programmer after its orignal declaration. Also in Python the **array-based list is hetrogeneous**, so items in the list do not need to be from the class.
+
+Let's say we want to add another element to this array, so we add *"e"* to the end of it, then our list would look like this: 
+
+ ``` [1, 3.1415, "Pie", True, "e"] ```
+ 
+ However our size would look like this:
+ 
+ This is because the elements of this dynamic array allocates a larger chunk of memory by copying the contents from its original array, as a result there is unused space which means there is more allocated memory than necessary. 
+ 
+#### 
 
 
 ## Recursion
