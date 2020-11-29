@@ -351,4 +351,20 @@ These are the following operations of the unordered linked list:
 * **is_empty()** - returns a Boolean value (True or False), if whether the list is empty or not.
 * **size()** - returns the number of items in the list.
 
+
+#### Ordered List ADT
+
+These are the following operations of the ordered linked list:
+
+* **OrderedList()** - creates a new empty list.
+* **add(*item*)** - adds a new item to the list by following the order.
+* **remove(*item*)** - removes item from the list.
+* **search(*item*)** - searchesthe item in the list.
+* **index(*item*)** - returns the postion of the item in the list.
+* **insert(*pos*, *item*)** - adds a new item at the given index postion.
+* **pop()** - removes item from the end of the list.
+* **pop(*pos*)** - removes item from the given index postion.
+* **is_empty()** - returns a Boolean value (True or False), if whether the list is empty or not.
+* **size()** - returns the number of items in the list.
+
 ## Recursion
