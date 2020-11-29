@@ -300,7 +300,8 @@ These are the following operations of a deque:
 A list is a collection of items where each item holds a relative position with respect to others.
 
 In Python there is the built-in **array based list** which is written as comma-delimited values surrounded by square brackets, which be be something like this:
-[1, 3.1415, "Pie", True]
+
+''' [1, 3.1415, "Pie", True] '''
 
 
 
