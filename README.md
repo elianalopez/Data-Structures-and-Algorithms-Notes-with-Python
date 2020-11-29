@@ -301,7 +301,7 @@ A list is a collection of items where each item holds a relative position with r
 
 In Python there is the built-in **array based list** which is written as comma-delimited values surrounded by square brackets, which be be something like this:
 
-<center> ``` [1, 3.1415, "Pie", True] ``` <\center>
+ ``` [1, 3.1415, "Pie", True] ```
 
 
 
