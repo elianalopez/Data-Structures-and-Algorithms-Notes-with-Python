@@ -257,7 +257,7 @@ These are the following operations of a queue:
 
 Down below is an illustration of how the enqueue and dequeue operation would function within a queue. 
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="550" height="180"</p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/QUEUE.PNG" width="750" height="180"</p>
 
 #### Queue Big-O Analysis - Time Complexity
 
