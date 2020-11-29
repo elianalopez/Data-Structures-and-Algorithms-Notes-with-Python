@@ -309,7 +309,7 @@ In Python there is the built-in **array based list** which is written as comma-d
 
 Since arrays are contiguous blocks of memory, this is how the space of the array-based list from above would look like:
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/array.PNG" width="100%" height="100%"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/array.PNG" width="400" height="180"></p>
 
 The **array-based list in Python is dynamic**, which means that the size can be modified by the programmer after its orignal declaration. Also in Python the **array-based list is hetrogeneous**, so items in the list do not need to be from the class.
 
