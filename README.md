@@ -391,7 +391,7 @@ There are three principals of a recursive function:
 ## Favorite Resources
 
 **For Overall Data Structures Information with Python** <br>
-Miller, B. N., &amp; Ranum, D. L. (2014). *Problem solving with algorithms and data structures using Python*. Decorah, IA: Brad Miller, David Ranum.
+Miller, B. N., &amp; Ranum, D. L. (2014). *Problem solving with algorithms and data structures using Python*. Decorah, IA.
 <br> &nbsp;&nbsp;&nbsp; <a href="http://www.openbookproject.net/books/pythonds/index.html">Click this link to access the online book</a>
 
 **For Python Operation Complexity** <br>
