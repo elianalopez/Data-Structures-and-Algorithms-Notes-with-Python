@@ -386,9 +386,12 @@ There are three principals of a recursive function:
 * Break down the task into smaller tasks
 
 ## Searching and Sorting
+
 ## Favorite Resources
 
+**For Overall Data Structures Information with Python**
 Miller, B. N., &amp; Ranum, D. L. (2014). Problem solving with algorithms and data structures using Python. Decorah, IA: Brad Miller, David Ranum.
 <br> &nbsp;&nbsp;&nbsp; <a href="http://www.openbookproject.net/books/pythonds/index.html">Click this link to access the online book</a>
 
+**For Python Operation Complexity**
 Pattis, R. E. (n.d.). Complexity of Python Operations. Retrieved November 30, 2020, from <br> &nbsp;&nbsp;&nbsp; <a href="https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt">https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt</a>
