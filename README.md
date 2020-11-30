@@ -29,6 +29,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
   * [Array-Based List](#Array-Based-List)
   * [Linked-List](#Linked-List)
 - [Recursion](#Recursion)
+- [Favorite Resources](#Favorite-Resources)
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
