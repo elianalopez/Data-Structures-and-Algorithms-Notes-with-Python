@@ -386,3 +386,5 @@ There are three principals of a recursive function:
 * Break down the task into smaller tasks
 
 ## Searching and Sorting
+## Favorite Resources
+Pattis, R. E. (n.d.). Complexity of Python Operations. Retrieved November 30, 2020, from <a href="https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt">https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt</a>.
