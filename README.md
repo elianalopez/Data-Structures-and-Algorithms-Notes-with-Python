@@ -361,6 +361,12 @@ These are the following operations of the unordered linked list:
 * **is_empty()** - returns a Boolean value (True or False), if whether the list is empty or not.
 * **size()** - returns the number of items in the list.
 
+#### Ordered List 
+
+The ordered list is somewhat similar to the unordered list, but what differentiates the two is the that the order list will always keep the items of the list in some sort of ordered, whether it be alphabetical or numerical. 
+
+For example if we wanted to create an ordered list of U.S. cities and added them in this following order:
+<center> 'Autsin' << 'Chicago' << 'New York' << 'Boston' </center>
 
 #### Ordered List ADT
 
