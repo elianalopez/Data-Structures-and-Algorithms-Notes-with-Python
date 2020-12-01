@@ -366,7 +366,18 @@ These are the following operations of the unordered linked list:
 The ordered list is somewhat similar to the unordered list, but what differentiates the two is the that the order list will always keep the items of the list in some sort of ordered, whether it be alphabetical or numerical. 
 
 For example if we wanted to create an ordered list of U.S. cities and added them in this following order:
-<center> 'Autsin' << 'Chicago' << 'New York' << 'Boston' </center>
+
+<p align="center">
+    'Austin' << 'Chicago' << 'New York' << 'Boston'
+</p>
+
+This would be the output of our list: 
+
+<p align="center">
+    ``` ['Austin', 'Boston', 'Chicago', 'New York'] ```
+</p>
+
+
 
 #### Ordered List ADT
 
