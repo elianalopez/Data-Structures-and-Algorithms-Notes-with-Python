@@ -374,9 +374,8 @@ For example if we wanted to create an ordered list of U.S. cities and added them
 This would be the output of our list: 
 
 <p align="center">
-    ``` ['Austin', 'Boston', 'Chicago', 'New York'] ```
+['Austin', 'Boston', 'Chicago', 'New York']
 </p>
-
 
 
 #### Ordered List ADT
