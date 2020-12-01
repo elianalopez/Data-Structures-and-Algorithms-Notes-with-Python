@@ -27,7 +27,7 @@ This repository contains a deep dive on Data Structures and Algorithms theory an
   * [Deque](#Deque)
 - [Lists](#Lists)
   * [Array-Based List](#Array-Based-List)
-  * [Linked-List](#Linked-List)
+  * [Singly Linked-List](#Singly-Linked-List)
 - [Recursion](#Recursion)
 - [Searching and Sorting](#Searching-and-Sorting)
 - [Favorite Resources](#Favorite-Resources)
@@ -332,7 +332,7 @@ An alternative data structure to utilize are **linked-lists** because of its two
 * There would be no pre-allocation of space
 * Insertion is easier
  
-### Linked-List
+### Singly Linked-List
 
 There are two types of linked-list we would go over:
 * Unordered Linked-List
@@ -365,7 +365,7 @@ These are the following operations of the unordered linked list:
 
 The ordered list is somewhat similar to the unordered list, but what differentiates the two is the that the order list will always keep the items of the list in some sort of ordered, whether it be alphabetical or numerical. 
 
-For example if we wanted to create an ordered list of U.S. cities and added them in this following order:
+For example if we wanted to create an ordered list of U.S. cities by ascending order and added them in this following order:
 
 <p align="center">
     'Austin' << 'Chicago' << 'New York' << 'Boston'
@@ -377,6 +377,9 @@ This would be the output of our list:
 ['Austin', 'Boston', 'Chicago', 'New York']
 </p>
 
+The same can go numericaly with the numbers 1 << 3 << 2. 
+
+If we wanted our list in ascending order we will get [1, 2 , 3] or if we wanted our list in descending order then we will get [3, 2, 1].
 
 #### Ordered List ADT
 
