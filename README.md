@@ -338,12 +338,14 @@ There are two types of linked-list we would go over:
 * Unordered Linked-List
 * Ordered Linked-List
 
-### Unordered Linked List
 
 ### Nodes
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/UnorderedLinkedList.PNG" width="900" height="120"></p>
+#### Unordered List 
 
+The unordered list is a collection of items where new items are inserted at the end of the list regardless of order or value. The illustration below demonstrates what an unordered linked-list looks like:
+
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/UnorderedLinkedList.PNG" width="900" height="120"></p>
 
 #### Unordered List ADT
 
