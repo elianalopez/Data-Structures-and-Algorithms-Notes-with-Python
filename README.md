@@ -383,6 +383,10 @@ The same can go numericaly with the numbers 1 << 3 << 2.
 
 If we wanted our list in ascending order we will get [1, 2 , 3] or if we wanted our list in descending order then we will get [3, 2, 1].
 
+Down below is an illustration of our linked-list in ascending order:
+
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/OrderedLinkedList.PNG" width="900" height="120"></p>
+
 #### Ordered List ADT
 
 These are the following operations of the ordered linked list:
