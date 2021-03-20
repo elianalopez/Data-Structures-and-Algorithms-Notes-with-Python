@@ -167,7 +167,9 @@ Normally logarithmic are typically base 2. One thing to think about while lookin
 
 When determining space complexity, you have to ask, *how does the space usage of our algorithm change as input becomes larger?* An alternative question you can ask is, *How much memory, in a worse case scenario, is needed?*
 
-* Space complexity includes both *auxiliary space* (temporary space) and used space
+* Space complexity includes both *auxiliary space* (temporary space used during execution) and used space
+
+**Space Complexity = Auxiliary Space + Input space**
 
 Similar to time complexity, space complexity can also be expressed using Big-O notation, such as O(n), O(nlog(n)), O(n²).
 
