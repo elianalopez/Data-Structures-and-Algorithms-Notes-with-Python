@@ -153,7 +153,7 @@ What is the n of O(n)?
 * O(n!) - *Factorial Time*
 <br> Any algorithm that calculates all permutation of a given array is O(N!).
 
-<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG" width="500" height="400"></p>
+<p align="center"><img src="https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python/blob/main/Images/Big-O.PNG.png" width="500" height="400"></p>
 
 **Note for Big-O** 
 As seen in the graph above you can notice that Big-O gives us a tight-upperbound to functions.
